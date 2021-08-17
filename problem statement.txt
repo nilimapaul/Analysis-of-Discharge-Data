@@ -1,0 +1,7 @@
+Problem Statement:
+
+Assume that as a civil engineer you have to analyze discharge data (X) collected independently at
+four sites. For each site you have to find:
+• the magnitude of discharge xk such that P(X  xk) = 0.01 along with 90% confidence interval
+for xk.
+• Test the hypothesis that the mean discharge is equal to 2500 units.
